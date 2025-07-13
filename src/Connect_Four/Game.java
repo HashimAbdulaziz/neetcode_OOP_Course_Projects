@@ -1,3 +1,5 @@
+package Connect_Four;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -17,8 +19,8 @@ public class Game {
         this.targetScore = targetScore;
 
         this.players = new Player[]{
-                new Player("Player 1", GridPosition.YELLOW),
-                new Player("Player 2", GridPosition.RED)
+                new Player("Connect_Four.Player 1", GridPosition.YELLOW),
+                new Player("Connect_Four.Player 2", GridPosition.RED)
         };
 
         this.score = new HashMap<>();

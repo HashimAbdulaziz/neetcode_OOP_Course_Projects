@@ -1,3 +1,5 @@
+package Connect_Four;
+
 public class Player {
 
     private String name;

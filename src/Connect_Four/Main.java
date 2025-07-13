@@ -1,3 +1,5 @@
+package Connect_Four;
+
 class Main {
     public static void main(String[] args) {
         Grid grid = new Grid(6, 7);
