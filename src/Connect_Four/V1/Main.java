@@ -1,4 +1,4 @@
-package Connect_Four;
+package Connect_Four.V1;
 
 class Main {
     public static void main(String[] args) {

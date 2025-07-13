@@ -1,4 +1,4 @@
-package Connect_Four;
+package Connect_Four.V1;
 
 import static java.lang.Math.min;
 
