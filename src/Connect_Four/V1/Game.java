@@ -19,8 +19,8 @@ public class Game {
         this.targetScore = targetScore;
 
         this.players = new Player[]{
-                new Player("Connect_Four.V1.Player 1", GridPosition.YELLOW),
-                new Player("Connect_Four.V1.Player 2", GridPosition.RED)
+                new Player("Player 1", GridPosition.YELLOW),
+                new Player("Player 2", GridPosition.RED)
         };
 
         this.score = new HashMap<>();
